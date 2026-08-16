@@ -56,7 +56,7 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 <!-- Ikonnya dari skillicons.dev — daftar kode ikon lengkap ada di https://skillicons.dev -->
 
-**Languages & Web**
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,python,js,html,css,tailwind&theme=dark" />
