@@ -25,29 +25,23 @@
 
 <h2 align="center">👋 Halo, my name is Narum</h2>
 
-<!-- Dua kolom pakai tabel HTML (markdown GitHub nggak punya cara lain naruh teks
-     bersebelahan sama gambar). Sengaja TANPA width persen dan TANPA tabel bersarang:
-     dua-duanya bikin lebar minimum membengkak sampai muncul scrollbar horizontal. -->
-<table>
-<tr>
-<td valign="top">
-
-I am a student at **Politeknik Caltex Riau**, majoring in **Informatics Engineering**.
-
-🛠️ Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)**
-
-📚 Currently learning computer vision
-
-🤝 Ask me about Laravel & PHP
-
-☕ Fun fact: my first working program turned the webcam black
-
-</td>
-<td valign="top" align="center">
+<!-- Ditumpuk vertikal, BUKAN tabel dua kolom. README GitHub nggak boleh pakai CSS,
+     jadi nggak ada media query — tabel bakal tetap maksa dua kolom di HP dan
+     teksnya keperas jadi 1-2 kata per baris. -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/halo-square.gif" width="260" alt="" />
-</td>
-</tr>
-</table>
+</p>
+
+<p align="center">
+  I am a student at <b>Politeknik Caltex Riau</b>, majoring in <b>Informatics Engineering</b>.
+</p>
+
+<p align="center">
+  🛠️ Currently building <a href="https://github.com/NarumBella-TIG/HandTracking"><b>HandTracking</b></a><br />
+  📚 Currently learning computer vision<br />
+  🤝 Ask me about Laravel &amp; PHP<br />
+  ☕ Fun fact: my first working program turned the webcam black
+</p>
 
 ---
 
