@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=64A1F4&center=true&vCenter=true&width=520&lines=Mahasiswa+Teknik+Informatika+PCR;Laravel+%26+PHP+Developer;Lagi+ngulik+Computer+Vision" />
+  <!-- warna E63946: hue merah dari banner (0deg), dicerahin biar kebaca di tema terang & gelap -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=Mahasiswa+Teknik+Informatika+PCR;Laravel+%26+PHP+Developer;Lagi+ngulik+Computer+Vision" />
 </p>
 
 <p align="center">
