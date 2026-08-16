@@ -25,23 +25,30 @@
 
 <h2 align="center">👋 Halo, my name is Narum</h2>
 
-<!-- Ditumpuk vertikal, BUKAN tabel dua kolom. README GitHub nggak boleh pakai CSS,
-     jadi nggak ada media query — tabel bakal tetap maksa dua kolom di HP dan
-     teksnya keperas jadi 1-2 kata per baris. -->
-<p align="center">
+<!-- Dua kolom pakai tabel HTML, dengan tabel markdown bersarang di kolom kiri
+     (itu yang bikin garis baris-kolom). Konsekuensinya: di layar sempit muncul
+     scrollbar horizontal, dan di HP kolom teksnya keperas — ini disengaja,
+     desktop yang diprioritasin. -->
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I am a student at **Politeknik Caltex Riau**, majoring in **Informatics Engineering**.
+I mostly build web stuff with Laravel, and lately I've been playing with computer vision.
+
+| | |
+|---|---|
+| 🛠️ | Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — real-time camera filter driven by hand gestures |
+| 📚 | Currently learning computer vision & realtime app architecture |
+| 🤝 | Ask me about Laravel, PHP, or anything about studying IT |
+| ☕ | Fun fact: my first working program turned the webcam black |
+
+</td>
+<td width="38%" valign="top" align="center">
   <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/halo-square.gif" width="260" alt="" />
-</p>
-
-<p align="center">
-  I am a student at <b>Politeknik Caltex Riau</b>, majoring in <b>Informatics Engineering</b>.
-</p>
-
-<p align="center">
-  🛠️ Currently building <a href="https://github.com/NarumBella-TIG/HandTracking"><b>HandTracking</b></a><br />
-  📚 Currently learning computer vision<br />
-  🤝 Ask me about Laravel &amp; PHP<br />
-  ☕ Fun fact: my first working program turned the webcam black
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
