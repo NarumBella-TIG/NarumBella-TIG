@@ -1,7 +1,11 @@
-<!-- type=soft: kotak solid, teksnya nggak ketabrak gelombang kayak type=wave -->
+<!-- Banner GIF ada di assets/banner.gif (versi kompres: 24 frame, 128 warna, 1.75 MB).
+     Banner lama pakai capsule-render, disimpen di bagian paling bawah file ini kalau mau balik. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Narum%20Bella&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Cyumi%20-%20In%20Another%20Life&descSize=18&descAlignY=60" />
+  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/banner.gif" width="100%" alt="banner" />
 </p>
+
+<h1 align="center">Narum Bella</h1>
+<p align="center"><i>Cyumi - In Another Life</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=64A1F4&center=true&vCenter=true&width=520&lines=Mahasiswa+Teknik+Informatika+PCR;Laravel+%26+PHP+Developer;Lagi+ngulik+Computer+Vision" />
@@ -102,3 +106,9 @@ Dibangun pakai **Python + OpenCV + MediaPipe Tasks API**.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=90&section=footer" />
 </p>
+
+<!-- Banner lama (SVG capsule-render), kalau mau balik tinggal pindahin baris di bawah ini ke paling atas:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Narum%20Bella&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Cyumi%20-%20In%20Another%20Life&descSize=18&descAlignY=60" />
+</p>
+-->
