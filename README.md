@@ -25,26 +25,28 @@
 
 <h2 align="center">👋 Halo, aku Narum</h2>
 
-<!-- Tabel dipakai buat bikin dua kolom — markdown GitHub nggak punya cara lain
-     buat naruh teks bersebelahan sama gambar. Border-nya nggak keliatan. -->
+<!-- Dua kolom pakai tabel HTML (markdown GitHub nggak punya cara lain naruh teks
+     bersebelahan sama gambar). Sengaja TANPA width persen dan TANPA tabel bersarang:
+     dua-duanya bikin lebar minimum membengkak sampai muncul scrollbar horizontal. -->
 <table>
 <tr>
-<td width="62%" valign="top">
+<td valign="top">
 
 Mahasiswa **Teknik Informatika** di **Politeknik Caltex Riau**.
 Sehari-hari ngoprek web pakai Laravel, belakangan lagi seneng
 main-main sama computer vision.
 
-| | |
-|---|---|
-| 🔭 | Lagi ngerjain **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — filter kamera real-time pakai gestur tangan |
-| 🌱 | Lagi belajar computer vision & arsitektur aplikasi realtime |
-| 💬 | Tanya-tanya soal Laravel, PHP, atau seputar kuliah TI |
-| ⚡ | Fun fact: kodingan pertamaku yang jalan malah bikin webcam-nya hitam |
+🔭 Lagi ngerjain **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)**
+
+🌱 Lagi belajar computer vision
+
+💬 Tanya-tanya soal Laravel & PHP
+
+⚡ Fun fact: program pertamaku malah bikin webcam hitam
 
 </td>
-<td width="38%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/side.gif" width="240" alt="" />
+<td valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/side.gif" width="300" alt="" />
 </td>
 </tr>
 </table>
