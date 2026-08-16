@@ -46,7 +46,7 @@ main-main sama computer vision.
 
 </td>
 <td valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/side.gif" width="260" alt="" />
+  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/halo-square.gif" width="260" alt="" />
 </td>
 </tr>
 </table>
