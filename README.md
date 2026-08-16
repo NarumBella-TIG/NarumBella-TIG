@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">👋 Halo, aku Narum</h2>
+<h2 align="center">👋 Halo, my name is Narum</h2>
 
 <!-- Dua kolom pakai tabel HTML (markdown GitHub nggak punya cara lain naruh teks
      bersebelahan sama gambar). Sengaja TANPA width persen dan TANPA tabel bersarang:
@@ -32,9 +32,7 @@
 <tr>
 <td valign="top">
 
-Mahasiswa **Teknik Informatika** di **Politeknik Caltex Riau**.
-Sehari-hari ngoprek web pakai Laravel, belakangan lagi seneng
-main-main sama computer vision.
+I am a student at **Politeknik Caltex Riau**, majoring in **Informatics Engineering**.
 
 🔭 Lagi ngerjain **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)**
 
