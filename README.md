@@ -1,6 +1,6 @@
 <!-- type=soft: kotak solid, teksnya nggak ketabrak gelombang kayak type=wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Narum%20Bella&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Still%20Waters%20Run%20Deep&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Narum%20Bella&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Cyumi%20-%20In%20Another%20Life&descSize=18&descAlignY=60" />
 </p>
 
 <p align="center">
