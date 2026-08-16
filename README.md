@@ -23,14 +23,31 @@
 
 ---
 
-### Halo 👋
+<h2 align="center">👋 Halo, aku Narum</h2>
 
-Mahasiswa Teknik Informatika **Politeknik Caltex Riau**. Sehari-hari ngoprek web
-dengan Laravel, belakangan lagi seneng main-main sama computer vision.
+<!-- Tabel dipakai buat bikin dua kolom — markdown GitHub nggak punya cara lain
+     buat naruh teks bersebelahan sama gambar. Border-nya nggak keliatan. -->
+<table>
+<tr>
+<td width="62%" valign="top">
 
-- 🔭 Lagi ngerjain: **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — filter kamera real-time yang dikontrol gestur tangan (OpenCV + MediaPipe)
-- 🌱 Lagi belajar: computer vision, arsitektur aplikasi realtime
-- 💬 Tanya-tanya soal: Laravel, PHP, atau hal-hal seputar kuliah TI
+Mahasiswa **Teknik Informatika** di **Politeknik Caltex Riau**.
+Sehari-hari ngoprek web pakai Laravel, belakangan lagi seneng
+main-main sama computer vision.
+
+| | |
+|---|---|
+| 🔭 | Lagi ngerjain **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — filter kamera real-time pakai gestur tangan |
+| 🌱 | Lagi belajar computer vision & arsitektur aplikasi realtime |
+| 💬 | Tanya-tanya soal Laravel, PHP, atau seputar kuliah TI |
+| ⚡ | Fun fact: kodingan pertamaku yang jalan malah bikin webcam-nya hitam |
+
+</td>
+<td width="38%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/side.gif" width="240" alt="" />
+</td>
+</tr>
+</table>
 
 ---
 
