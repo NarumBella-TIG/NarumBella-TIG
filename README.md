@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- warna E63946: hue merah dari banner (0deg), dicerahin biar kebaca di tema terang & gelap -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=Informatics+Engineering+Student;suami+silent+Suzuka+-+Chan;Exploring+Computer+Vision" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=520&lines=Informatics+Engineering+Student;Suami+Silent+Suzuka+-+Chan;Exploring+Computer+Vision" />
 </p>
 
 <p align="center">
