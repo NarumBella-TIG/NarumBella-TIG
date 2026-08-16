@@ -38,10 +38,10 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 | | |
 |---|---|
-| 🛠️ | Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — real-time camera filter driven by hand gestures |
-| 📚 | Currently learning computer vision & realtime app architecture |
-| 🤝 | Ask me about Laravel, PHP, or anything about studying IT |
-| ☕ | Fun fact: my first working program turned the webcam black |
+| 🐦‍🔥 | Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — real-time camera filter driven by hand gestures |
+| 🐦‍🔥 | Currently learning computer vision & realtime app architecture |
+| 🐦‍🔥 | Ask me about Laravel, PHP, or anything about studying IT |
+| 🐦‍🔥 | Fun fact: my first working program turned the webcam black |
 
 </td>
 <td width="38%" valign="top" align="center">
