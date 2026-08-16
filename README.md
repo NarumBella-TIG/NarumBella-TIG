@@ -46,6 +46,17 @@ dengan Laravel, belakangan lagi seneng main-main sama computer vision.
 
 ---
 
+### Kontribusi
+
+<!-- SVG-nya dibikin otomatis sama .github/workflows/snake.yml, disimpan di branch "output" -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake.svg" />
+  <img alt="ular makan kotak kontribusi" src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/output/github-snake.svg" />
+</picture>
+
+---
+
 ### Statistik
 
 <p align="center">
