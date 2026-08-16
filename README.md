@@ -9,9 +9,12 @@
 
 <p align="center">
   <a href="https://github.com/NarumBella-TIG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Isi link LinkedIn / portfolio kamu di href, terus hapus tanda komentar ini -->
-  <!-- <a href="LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="LINK_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
+  <a href="https://www.instagram.com/frince_cymi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@cymi06"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://linktr.ee/cyumisocm_"><img src="https://img.shields.io/badge/Dukung%20%2F%20Donasi-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=NarumBella-TIG&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
