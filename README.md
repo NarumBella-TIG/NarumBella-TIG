@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">👋 Halo, my name is Narum</h2>
+<h2 align="center">👋 Hallo, my name is Narum</h2>
 
 <!-- Dua kolom pakai tabel HTML, dengan tabel markdown bersarang di kolom kiri
      (itu yang bikin garis baris-kolom). Konsekuensinya: di layar sempit muncul
@@ -38,7 +38,7 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 | | |
 |---|---|
-| 🐦‍🔥 | Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — real-time camera filter driven by hand gestures |
+| 🐦‍🔥 | Currently building **[HandTracking](https://github.com/NarumBella-TIG/HandTracking)** real-time camera filter driven by hand gestures |
 | 🐦‍🔥 | Currently learning computer vision & realtime app architecture |
 | 🐦‍🔥 | Ask me about Laravel, PHP, or anything about studying IT |
 | 🐦‍🔥 | Fun fact: my first working program turned the webcam black |
@@ -80,7 +80,7 @@ I mostly build web stuff with Laravel, and lately I've been playing with compute
 
 ### Currently Building
 
-**[🖐️ HandTracking](https://github.com/NarumBella-TIG/HandTracking)** — a real-time camera filter driven by hand gestures.
+**[🖐️ HandTracking](https://github.com/NarumBella-TIG/HandTracking)** a real-time camera filter driven by hand gestures.
 Spread your thumb and index finger to open a "portal"; whatever falls inside gets filtered (thermal, sketch, glitch, cartoon, and more).
 Built with **Python + OpenCV + MediaPipe Tasks API**.
 
