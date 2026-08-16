@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Narum%20Bella&fontSize=52&fontColor=ffffff&desc=Still%20Waters%20Run%20Deep&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Narum%20Bella&fontSize=52&fontColor=ffffff&desc=Still%20Waters%20Run%20Deep&descSize=18&descAlignY=62" />
 </p>
 
 <p align="center">
