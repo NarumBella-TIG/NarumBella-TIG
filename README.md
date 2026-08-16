@@ -4,9 +4,6 @@
   <img src="https://raw.githubusercontent.com/NarumBella-TIG/NarumBella-TIG/main/assets/banner.gif" width="100%" alt="banner" />
 </p>
 
-<h1 align="center">Narum Bella</h1>
-<p align="center"><i>Cyumi - In Another Life</i></p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=64A1F4&center=true&vCenter=true&width=520&lines=Mahasiswa+Teknik+Informatika+PCR;Laravel+%26+PHP+Developer;Lagi+ngulik+Computer+Vision" />
 </p>
